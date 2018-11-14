@@ -12,4 +12,4 @@ Base Template Project of Scala with gradle
     ./scripts/customize_my_project.sh    
     ```
 
-- Heppy code!!
+- Happy code!!
